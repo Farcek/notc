@@ -1,0 +1,13 @@
+{
+  "name": "notc",
+  "description": "configration libray",
+  "version": "0.0.1",
+  "main": "index.js",  
+  "typescript": {
+    "definition": "notc.d.ts"
+  },
+  "dependencies": {
+    "etc": "^1.1.0",
+    "find-parent-dir": "^0.3.0"
+  }
+}
